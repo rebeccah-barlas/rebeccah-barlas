@@ -9,7 +9,7 @@
 🔹 Currently working on a **personal project** to supplement my learning 🌱 (details coming soon)  
 🔹 Away from my computer you'll find me...outdoors 🌤, gardening 🌻, or snuggling with my Basset Hound 🐶
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
 ### **Languages & Frameworks**
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -38,5 +38,6 @@
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=flat-square&logo=java&logoColor=white)
 ![TDD](https://img.shields.io/badge/Test-Driven_Development-FF69B4?style=flat-square&logo=jest&logoColor=white)
 
-## 📫 Connect with Me!
+## 📫 Connect with Me!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rebeccah-barlas/)  
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat&logo=gmail&logoColor=white)](mailto:rebeccah.m.barlas@gmail.com)
