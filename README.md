@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rebeccah! 
 
 🚀 **Software Developer | Registered Dietitian**  
-💡 Passionate about **transforming healthcare with code** 
+💡 Passionate about **transforming healthcare with code**  
 📍 Based in metro-Detroit, MI
 
 ---
@@ -25,10 +25,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Databases & Data Management**
-![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-86E1C8?style=flat-square&logo=dotnet&logoColor=black)
-
 ### **Development Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -37,6 +33,10 @@
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+
+### **Databases & Data Management**
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-86E1C8?style=flat-square&logo=dotnet&logoColor=black)
 
 ### **Development Practices**
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=flat-square&logo=java&logoColor=white)
