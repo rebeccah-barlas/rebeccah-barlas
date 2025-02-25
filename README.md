@@ -4,14 +4,10 @@
 💡 Passionate about **transforming healthcare with code**  
 📍 Based in metro-Detroit, MI
 
----
-
 ## 🌟 About Me  
 🔹 Formerly helped patients 1:1 — now building tools to improve patient care and provider workflows  
 🔹 Currently working on a **personal project** to supplement my learning 🌱 (details coming soon)  
 🔹 Away from my computer you'll find me...outdoors 🌤, gardening 🌻, or snuggling with my Basset Hound 🐶
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -42,9 +38,5 @@
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-000000?style=flat-square&logo=java&logoColor=white)
 ![TDD](https://img.shields.io/badge/Test-Driven_Development-FF69B4?style=flat-square&logo=jest&logoColor=white)
 
----
-
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rebeccah-barlas/)  
-
----
