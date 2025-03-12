@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Rebeccah! 
 
 🚀 **Software Developer | Registered Dietitian**  
-💡 Passionate about **transforming healthcare with code**  
-📍 Based in metro-Detroit, MI
+💡 Passionate about **leveraging technology to build impactful solutions**  
+📍 Based in Metro-Detroit, MI
 
 ## 🌟 About Me  
-🔹 Formerly helped patients 1:1 — now building tools to improve patient care and provider workflows  
-🔹 Currently working on a **personal project** to supplement my learning 🌱 (details coming soon)  
+🔹 Formerly helped patients 1:1 — now developing tools that enhance workflows, improve efficiency, and drive innovation  
+🔹 Currently building a **personal project** to supplement my learning 🌱 (details coming soon)
+🔹 Strong analytical skills, adaptability, and problem-solving mindset from my healthcare background
+🔹 Passionate about business-driven software solutions that add tangible value
 🔹 Away from my computer you'll find me...outdoors 🌤, gardening 🌻, or snuggling with my Basset Hound 🐶
 
 ## 🛠️ Skills  
