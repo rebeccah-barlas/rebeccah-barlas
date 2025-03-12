@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rebeccah! 
 
 🚀 **Software Developer | Registered Dietitian**  
-💡 Passionate about **leveraging technology to build impactful solutions** that add tangible value
+💡 Passionate about **leveraging technology to build impactful solutions** that add tangible value  
 📍 Based in Metro-Detroit, MI
 
 ## 🌟 About Me  
