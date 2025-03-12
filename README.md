@@ -6,9 +6,9 @@
 
 ## 🌟 About Me  
 🔹 Formerly helped patients 1:1 — now developing tools that enhance workflows, improve efficiency, and drive innovation  
-🔹 Currently building a **personal project** to supplement my learning 🌱 (details coming soon)
-🔹 Strong analytical skills, adaptability, and problem-solving mindset from my healthcare background
-🔹 Passionate about business-driven software solutions that add tangible value
+🔹 Currently building a **personal project** to supplement my learning 🌱 (details coming soon)  
+🔹 Strong analytical skills, adaptability, and problem-solving mindset from my healthcare background  
+🔹 Passionate about business-driven software solutions that add tangible value  
 🔹 Away from my computer you'll find me...outdoors 🌤, gardening 🌻, or snuggling with my Basset Hound 🐶
 
 ## 🛠️ Skills  
