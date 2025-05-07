@@ -5,8 +5,7 @@
 📍 Based in Metro-Detroit, MI
 
 ## 🌟 About Me  
-🔹 Formerly helped patients 1:1 — now developing tools that enhance workflows, improve efficiency, and drive innovation  
-🔹 Currently building a **personal project** to supplement my learning 🌱 (details coming soon)  
+🔹 Formerly helped patients 1:1 — now developing tools that enhance workflows, improve efficiency, and drive innovation
 🔹 Strong analytical skills, adaptability, and problem-solving mindset from my healthcare background   
 🔹 Away from my computer you'll find me...outdoors 🌤, gardening 🌻, or snuggling with my Basset Hound 🐶
 
